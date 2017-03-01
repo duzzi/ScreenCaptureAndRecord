@@ -38,3 +38,14 @@ captures/
 
 # Keystore files
 *.jks
+ScreenCaptureAndRecord/.idea/.name
+ScreenCaptureAndRecord/.idea/compiler.xml
+ScreenCaptureAndRecord/.idea/copyright/profiles_settings.xml
+ScreenCaptureAndRecord/.idea/encodings.xml
+ScreenCaptureAndRecord/.idea/gradle.xml
+ScreenCaptureAndRecord/.idea/inspectionProfiles/profiles_settings.xml
+ScreenCaptureAndRecord/.idea/inspectionProfiles/Project_Default.xml
+ScreenCaptureAndRecord/.idea/misc.xml
+ScreenCaptureAndRecord/.idea/modules.xml
+ScreenCaptureAndRecord/.idea/runConfigurations.xml
+ScreenCaptureAndRecord/.idea/vcs.xml
